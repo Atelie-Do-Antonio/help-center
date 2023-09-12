@@ -23,7 +23,7 @@
   <h3 align="center">Help Center</h3>
 
   <p align="center">
-    Remix Run FUndamentals Project.
+    Remix Run Fundamentals Project.
     <br />
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
